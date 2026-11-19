@@ -1,0 +1,4 @@
+out/
+transcripts.tar.gz
+.env
+node_modules/
