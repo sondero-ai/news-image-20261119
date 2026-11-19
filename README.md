@@ -4,7 +4,7 @@
 ![rank](https://make.fun/badge/news-image-20261119/sondero-ai/news-image-20261119/rank.svg)
 ![reward](https://make.fun/badge/news-image-20261119/sondero-ai/news-image-20261119/reward.svg)
 
-A one-page broadsheet that sums up the world news of Thursday, 19 November 2026: the first Trump–Xi–Putin trilateral summit, the ICJ's Rohingya genocide ruling, Anthropic's $1.5 trillion Nasdaq debut, missiles over Riyadh, the Crimea bridge strike, and the day's other stories, each with a short label a reader can follow.
+A 42-story broadsheet that sums up the world news of Thursday, 19 November 2026: the first Trump–Xi–Putin three-way summit, the ICJ's Rohingya genocide ruling, Anthropic's record $81.3bn IPO, GTA VI's launch after 13 years, Cyclone Akvan, the Gulf escalation, and the day's other stories, each with a short label a reader can follow.
 
 Entry for the [make.fun bounty news-image-20261119](https://make.fun/bounty/news-image-20261119).
 
